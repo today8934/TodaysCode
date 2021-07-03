@@ -1,4 +1,4 @@
-package practice.solid;
+package practice.solid.isp;
 
 public class Man extends Person implements Boyfriend, Son{
 

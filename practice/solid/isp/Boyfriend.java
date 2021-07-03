@@ -1,4 +1,4 @@
-package practice.solid;
+package practice.solid.isp;
 
 public interface Boyfriend {
     void anyversary();

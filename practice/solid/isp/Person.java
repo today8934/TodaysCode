@@ -1,4 +1,4 @@
-package practice.solid;
+package practice.solid.isp;
 
 public abstract class Person {
 
