@@ -3,8 +3,8 @@ package practice.di;
 public class Car {
     Tire tire;
 
-    public Car() {
-        this.tire = new KoreanTire();
+    public Car(Tire tire) {
+        this.tire = tire;
     }
 
     public String getTireBran() {
